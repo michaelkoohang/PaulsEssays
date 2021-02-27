@@ -1,263 +1,461 @@
-# News from the Front
+# Undergraduation
 
-September 2007  
+
+![](http://www.virtumundo.com/images/spacer.gif)
+**Want to start a startup?** Get funded by
+[Y Combinator](http://ycombinator.com/apply.html).
+
   
-A few weeks ago I had a thought so heretical that it really surprised
-me. It may not matter all that much where you go to college.  
+![](http://www.virtumundo.com/images/spacer.gif)
+
+
+
+March 2005  
   
-For me, as for a lot of middle class kids, getting into a good
-college was more or less the meaning of life when I was growing up.
-What was I? A student. To do that well meant to get good grades.
-Why did one have to get good grades? To get into a good college.
-And why did one want to do that? There seemed to be several reasons:
-you'd learn more, get better jobs, make more money. But it didn't
-matter exactly what the benefits would be. College was a bottleneck
-through which all your future prospects passed; everything would
-be better if you went to a better college.  
+*(Parts of this essay began as replies to students who wrote to
+me with questions.)*  
   
-A few weeks ago I realized that somewhere along the line I had
-stopped believing that.  
+Recently I've had several emails from computer science
+undergrads asking what to do in college. I might not
+be the best source of advice, because I was a philosophy major in
+college. But I took so many CS classes that most CS majors thought
+I was one. I was certainly a hacker, at least.  
   
-What first set me thinking about this was the new trend of worrying
-obsessively about what 
-[kindergarten](http://nymag.com/nymetro/urban/education/features/15141/)
-your kids go to. It seemed to
-me this couldn't possibly matter. Either it won't help your kid
-get into Harvard, or if it does, getting into Harvard won't mean
-much anymore. And then I thought: how much does it mean even now?  
+**Hacking**  
   
-It turns out I have a lot of data about that. My three partners
-and I run a seed stage investment firm called 
-[Y Combinator](http://ycombinator.com). We
-invest when the company is just a couple guys and an idea. The
-idea doesn't matter much; it will change anyway. Most of our
-decision is based on the founders. The average founder is three
-years out of college. Many have just graduated; a few are still
-in school. So we're in much the same position as a graduate program,
-or a company hiring people right out of college. Except our choices
-are immediately and visibly tested. There are two possible outcomes
-for a startup: success or failure—and usually you know within a
-year which it will be.  
+What should you do in college to become a 
+[good hacker](gh.html)? There are two
+main things you can do: become very good at programming, and learn
+a lot about specific, cool problems. These turn out to be equivalent,
+because each drives you to do the other.  
   
-The test applied to a startup is among the purest of real world
-tests. A startup succeeds or fails depending almost entirely on
-the efforts of the founders. Success is decided by the market: you
-only succeed if users like what you've built. And users don't care
-where you went to college.  
-  
-As well as having precisely measurable results, we have a lot of
-them. Instead of doing a small number of large deals like a
-traditional venture capital fund, we do a large number of small
-ones. We currently fund about 40 companies a year, selected from
-about 900 applications representing a total of about 2000 people. 
-[[1](#f1n)]  
-  
-Between the volume of people we judge and the rapid, unequivocal
-test that's applied to our choices, Y Combinator has been an
-unprecedented opportunity for learning how to pick winners. One
-of the most surprising things we've learned is how little it matters
-where people went to college.  
-  
-I thought I'd already been cured of caring about that. There's
-nothing like going to grad school at Harvard to cure you of any
-illusions you might have about the average Harvard undergrad. And
-yet Y Combinator showed us we were still overestimating people who'd
-been to elite colleges. We'd interview people from MIT or Harvard
-or Stanford and sometimes find ourselves thinking: they *must* be
-smarter than they seem. It took us a few iterations to learn to
-trust our senses.  
-  
-Practically everyone thinks that someone who went to MIT or Harvard
-or Stanford must be smart. Even people who hate you for it believe
-it.  
-  
-But when you think about what it means to have gone to an elite
-college, how could this be true? We're talking about a decision
-made by admissions officers—basically, HR people—based on a
-cursory examination of a huge pile of depressingly similar applications
-submitted by seventeen year olds. And what do they have to go on?
-An easily gamed standardized test; a short essay telling you what
-the kid thinks you want to hear; an interview with a random alum;
-a high school record that's largely an index of obedience. Who
-would rely on such a test?  
-  
-And yet a lot of companies do. A lot of companies are very much
-influenced by where applicants went to college. How could they be?
-I think I know the answer to that.  
-  
-There used to be a saying in the corporate world: "No one ever got
-fired for buying IBM." You no longer hear this about IBM specifically,
-but the idea is very much alive; there is a whole category of
-"enterprise" software companies that exist to take advantage of it.
-People buying technology for large organizations don't care if they
-pay a fortune for mediocre software. It's not their money. They
-just want to buy from a supplier who seems safe—a company with
-an established name, confident salesmen, impressive offices, and
-software that conforms to all the current fashions. Not necessarily
-a company that will deliver so much as one that, if they do let you
-down, will still seem to have been a prudent choice. So companies
-have evolved to fill that niche.  
-  
-A recruiter at a big company is in much the same position as someone
-buying technology for one. If someone went to Stanford and is not
-obviously insane, they're probably a safe bet. And a safe bet is
-enough. No one ever measures recruiters by the later performance
-of people they turn down. 
-[[2](#f2n)]  
-  
-I'm not saying, of course, that elite colleges have evolved to prey
-upon the weaknesses of large organizations the way enterprise
-software companies have. But they work as if they had. In addition
-to the power of the brand name, graduates of elite colleges have
-two critical qualities that plug right into the way large organizations
-work. They're good at doing what they're asked, since that's what
-it takes to please the adults who judge you at seventeen. And
-having been to an elite college makes them more confident.  
-  
-Back in the days when people might spend their whole career at one
-big company, these qualities must have been very valuable. Graduates
-of elite colleges would have been capable, yet amenable to authority.
-And since individual performance is so hard to measure in large
-organizations, their own confidence would have been the starting
-point for their reputation.  
-  
-Things are very different in the new world of startups. We couldn't
-save someone from the market's judgement even if we wanted to. And
-being charming and confident counts for nothing with users. All
-users care about is whether you make something they like. If you
-don't, you're dead.  
-  
-Knowing that test is coming makes us work a lot harder to get the
-right answers than anyone would if they were merely hiring people.
-We can't afford to have any illusions about the predictors of
-success. And what we've found is that the variation between schools
-is so much smaller than the variation between individuals that it's
-negligible by comparison. We can learn more about someone in the
-first minute of talking to them than by knowing where they went to
-school.  
-  
-It seems obvious when you put it that way. Look at the individual,
-not where they went to college. But that's a weaker statement than
-the idea I began with, that it doesn't matter much where a given
-individual goes to college. Don't you learn things at the best
-schools that you wouldn't learn at lesser places?  
-  
-Apparently not. Obviously you can't prove this in the case of a
-single individual, but you can tell from aggregate evidence: you
-can't, without asking them, distinguish people who went to one
-school from those who went to another three times as far down the
-*US News* list. 
-[[3](#f3n)]
-Try it and see.  
-  
-How can this be? Because how much you learn in college depends a
-lot more on you than the college. A determined party animal can
-get through the best school without learning anything. And someone
-with a real thirst for knowledge will be able to find a few smart
-people to learn from at a school that isn't prestigious at all.  
+The way to be good at programming is to work (a) a lot (b) on hard
+problems. And the way to make yourself work on hard problems is
+to work on some very engaging project.  
   
 
-The other students are the biggest advantage of going to an elite
-college; you learn more from them than the professors. But
-you should be able to reproduce this at most colleges if you make
-a conscious effort to find smart friends. At
-most colleges you can find at least a handful of other smart students,
-and most people have only a handful of close friends in college
-anyway. 
-[[4](#f4n)]
-The odds of finding smart professors are even better.
-The curve for faculty is a lot flatter than for students, especially
-in math and the hard sciences; you have to go pretty far down the
-list of colleges before you stop finding smart professors in the
-math department.  
+Odds are this project won't be a class assignment. My friend Robert
+learned a lot by writing network software when he was an
+undergrad. One of his projects was to connect Harvard to the
+Arpanet; it had been one of the original nodes, but by 1984 the
+connection had died. [1] Not only was this
+work not for a class, but because he spent all his time on it
+and neglected his studies, he was kicked out of
+school for a year. [2] It all evened out in the end, and now he's
+a professor at MIT. But you'll probably be happier if you don't
+go to that extreme; it caused him a lot of worry at the time.  
   
-So it's not surprising that we've found the relative prestige of
-different colleges useless in judging individuals. There's a lot
-of randomness in how colleges select people, and what they learn
-there depends much more on them than the college. Between these
-two sources of variation, the college someone went to doesn't mean
-a lot. It is to some degree a predictor of ability, but so weak
-that we regard it mainly as a source of error and try consciously
-to ignore it.  
+Another way to be good at programming is to find other people who
+are good at it, and learn what they know. Programmers tend to sort
+themselves into tribes according to the type of work they do and
+the tools they use, and some tribes are 
+[smarter](pypar.html) than others. Look
+around you and see what the smart people seem to be working on;
+there's usually a reason.  
   
-I doubt what we've discovered is an anomaly specific to startups.
-Probably people have always overestimated the importance of where
-one goes to college. We're just finally able to measure it.  
+Some of the smartest people around you are professors. So one way
+to find interesting work is to volunteer as a research assistant.
+Professors are especially interested in people who can solve tedious
+system-administration type problems for them, so that is a way to
+get a foot in the door. What they fear are
+flakes and resume padders. It's all too
+common for an assistant to result in a net increase in work. So
+you have to make it clear you'll mean a net decrease.  
   
-The unfortunate thing is not just that people are judged by such a
-superficial test, but that so many judge themselves by it. A lot
-of people, probably the majority of people in America, have
-some amount of insecurity about where, or whether, they went to
-college. The tragedy of the situation is that by far the greatest
-liability of not having gone to the college you'd have liked is
-your own feeling that you're thereby lacking something. Colleges
-are a bit like exclusive clubs in this respect. There is only one
-real advantage to being a member of most exclusive clubs: you know
-you wouldn't be missing much if you weren't. When you're excluded,
-you can only imagine the advantages of being an insider. But
-invariably they're larger in your imagination than in real life.  
+Don't be put off if they say no. Rejection is almost always less
+personal than the rejectee imagines. Just move on to the next.
+(This applies to dating too.)  
   
-So it is with colleges. Colleges differ, but they're nothing like
-the stamp of destiny so many imagine them to be. People aren't
-what some admissions officer decides about them at seventeen.
-They're what they make themselves.  
+Beware, because although most professors are smart, not all of them
+work on interesting stuff. Professors have to publish novel results
+to advance their careers, but there is more competition in more
+interesting areas of research. So what less ambitious professors
+do is turn out a series of papers whose conclusions are novel because
+no one else cares about them. You're better off avoiding these.  
   
-Indeed, the great advantage of not caring where people went to
-college is not just that you can stop judging them (and yourself)
-by superficial measures, but that you can focus instead on what
-really matters. What matters is what you make of yourself. 
-I think that's what we
-should tell kids. Their job isn't to get good grades so they can
-get into a good college, but to learn and do. And not just because
-that's more rewarding than worldly success. That will increasingly
-*be* the route to worldly success.  
+I never worked as a research assistant, so I feel a bit dishonest
+recommending that route. I learned to program by writing stuff of
+my own, particularly by trying to reverse-engineer Winograd's
+SHRDLU. I was as obsessed with that program as a mother with a new baby.  
+  
+Whatever the disadvantages of working by yourself, the advantage
+is that the project is all your own. You never have to compromise
+or ask anyone's permission, and if you have a new idea you can just
+sit down and start implementing it.  
+  
+In your own projects you don't have to worry about novelty (as
+professors do) or profitability (as businesses do). All that matters
+is how hard the project is technically, and that has no correlation
+to the nature of the application. "Serious" applications like 
+databases are often trivial and dull technically (if you ever suffer
+from insomnia, try reading the technical literature about databases)
+while "frivolous" applications like games are often very sophisticated.
+I'm sure there are game companies out there working on products
+with more intellectual content than the research at the
+bottom nine tenths of university CS departments.  
+  
+If I were in college now I'd probably work on
+graphics: a network game, for example, or a tool for 3D animation.
+When I was an undergrad there weren't enough cycles around to make
+graphics interesting, but it's hard to imagine anything more fun
+to work on now.  
+  
+**Math**  
+  
+When I was in college, a lot of the professors believed (or at least
+wished) that 
+[computer science](hp.html) was a branch of math. This idea was
+strongest at Harvard, where there wasn't even a CS major till the
+1980s; till then one had to major in applied math. But it was
+nearly as bad at Cornell. When I told the fearsome Professor Conway
+that I was interested in AI (a hot topic then), he told me I should
+major in math. I'm still not sure whether he thought AI required
+math, or whether he thought AI was nonsense and that majoring in
+something rigorous would cure me of such stupid ambitions.  
+  
+In fact, the amount of math you need as a hacker is a lot less 
+than most university departments like to admit. I don't think you 
+need much more than high school math plus a few concepts from the
+theory of computation. (You have to know what an n^2 algorithm is
+if you want to avoid writing them.) Unless you're planning to write
+math applications, of course. Robotics, for example, is all math.  
+  
+But while you don't literally need math for most kinds of hacking,
+in the sense of knowing 1001 tricks for differentiating formulas, 
+math is very much worth studying for its own sake. It's a 
+valuable source of metaphors for almost any kind of work.[3] I wish 
+I'd studied more math in college for that reason.  
+  
+Like a lot of people, I was mathematically abused as a child. I 
+learned to think of math as a collection of formulas that were
+neither beautiful nor had any relation to my life (despite attempts
+to translate them into "word problems"), but had to be memorized 
+in order to do well on tests.  
+  
+One of the most valuable things you could do in college would be
+to learn what math is really about. This may not be easy, because
+a lot of good mathematicians are bad teachers. And while there are
+many popular books on math, few seem good. The best I can think
+of are W. W. Sawyer's. And of course Euclid. [4]  
+  
+**Everything**  
+  
+Thomas Huxley said "Try to learn something about everything and 
+everything about something." Most universities aim at this
+ideal.  
+  
+But what's everything? To me it means, all that people
+learn in the course of working honestly on hard problems. All such 
+work tends to be related, in that ideas and techniques from one 
+field can often be transplanted successfully to others. Even others
+that seem quite distant. For example, I write 
+[essays](essay.html) the same way
+I write software: I sit down and blow out a lame version 1 as fast
+as I can type, then spend several weeks rewriting it.  
+  
+Working on hard problems is not, by itself, enough. Medieval 
+alchemists were working on a hard problem, but their approach was 
+so bogus that there was little
+to learn from studying it, except possibly about people's ability 
+to delude themselves. Unfortunately the sort of AI I was trying 
+to learn in college had the same flaw: a very hard problem, blithely
+approached with hopelessly inadequate techniques. Bold? Closer 
+to fraudulent.
+  
+  
+The social sciences are also fairly bogus, because they're so much 
+influenced by intellectual [fashions](say.html). If a 
+physicist met a colleague
+from 100 years ago, he could teach him some new things; if a psychologist
+met a colleague from 100 years ago, they'd just get into an
+ideological argument.
+Yes, of course, you'll learn something by taking a
+psychology class. The point is, you'll learn more by taking
+a class in another department.  
+  
+The worthwhile departments, in my opinion, are math, the hard
+sciences, engineering, history (especially economic and social 
+history, and the history of science), architecture, and the classics.
+A survey course in art history may be worthwhile. Modern literature
+is important, but the way to learn about it is just to read. I
+don't know enough about music to say.  
+  
+You can skip the social sciences, philosophy, and the various
+departments created recently in response to political pressures.
+Many of these fields talk about important problems, certainly. But
+the way they talk about them is useless. For example, philosophy 
+talks, among other things, about our obligations to one another; 
+but you can learn more about this from a wise grandmother or E. B.
+White than from an academic philosopher.  
+  
+I speak here from experience. I should probably have been offended 
+when people laughed at Clinton for saying "It depends on what the 
+meaning of the word 'is' is." I took about five classes in college
+on what the meaning of "is" is.  
+  
+Another way to figure out which fields are worth studying is to 
+create the  *dropout graph.* For example, I know many people 
+who switched from math to computer science because they found math 
+too hard, and no one who did the opposite. People don't do hard
+things gratuitously; no one will work on a harder problem unless 
+it is proportionately (or at least log(n)) more rewarding. So
+probably math is more worth studying than computer science. By
+similar comparisons you can make a graph of all the departments in
+a university. At the bottom you'll find the subjects with least 
+intellectual content.  
+  
+If you use this method, you'll get roughly the same answer I just 
+gave.  
+  
+Language courses are an anomaly. I think they're better considered
+as extracurricular activities, like pottery classes. They'd be far
+more useful when combined with some time living in a country where 
+the language is spoken. On a whim I studied Arabic as a freshman.
+It was a lot of work, and the only lasting benefits were a weird 
+ability to identify semitic roots and some insights into how people
+recognize words.  
+  
+Studio art and creative writing courses are wildcards. Usually 
+you don't get taught much: you just work (or don't work) on whatever
+you want, and then sit around offering "crits" of one another's
+creations under the vague supervision of the teacher. But writing and
+art are both very hard problems that (some) people work honestly
+at, so they're worth doing, especially if you can find a good
+teacher.  
+  
+**Jobs**  
+  
+Of course college students have to think about more than just
+learning. There are also two practical problems to consider: jobs,
+and graduate school.  
+  
+In theory a liberal education is not supposed to supply job training.
+But everyone knows this is a bit of a fib. Hackers at every college
+learn practical skills, and not by accident.  
+  
+What you should learn to get a job depends on the kind you want.
+If you want to work in a big company, learn how to hack 
+[Blub](avg.html) on
+Windows. If you want to work at a cool little company or research 
+lab, you'll do better to learn Ruby on Linux. And if you want to 
+start your own company, which I think will be more and more common,
+master the most powerful tools you can find, because you're going
+to be in a race against your competitors, and they'll be your horse.  
+  
+There is not a direct correlation between the skills you should 
+learn in college and those you'll use in a job. You should aim 
+slightly high in college.  
+  
+In workouts a football player may bench press 300 pounds, even
+though he may never have to exert anything like that much force in
+the course of a game. Likewise, if your professors try to make you
+learn stuff that's more advanced than you'll need in a job, it may
+not just be because they're academics, detached from the real world.
+They may be trying to make you lift weights with your brain.  
+  
+The programs you write in classes differ in three critical ways
+from the ones you'll write in the real world: they're small; you
+get to start from scratch; and the problem is usually artificial 
+and predetermined. In the real world, programs are bigger, tend 
+to involve existing code, and often require you to figure out what 
+the problem is before you can solve it.  
+  
+You don't have to wait to leave (or even enter) college to learn 
+these skills. If you want to learn how to deal with existing code,
+for example, you can contribute to open-source projects. The sort
+of employer you want to work for will be as impressed by that as 
+good grades on class assignments.  
+  
+In existing open-source projects you don't get much practice at
+the third skill, deciding what problems to solve. But there's 
+nothing to stop you starting new projects of your own. And good
+employers will be even more impressed
+with that.  
+  
+What sort of problem should you try to solve? One way to answer
+that is to ask what you need as a user. For example, I stumbled
+on a good algorithm for spam filtering because I wanted to stop 
+getting spam. Now what I wish I had was a mail reader that somehow
+prevented my inbox from filling up. I tend to use my inbox as a
+todo list. But that's like using a screwdriver to open
+bottles; what one really wants is a bottle opener.  
+  
+**Grad School**  
+  
+What about grad school? Should you go? And how do you get into a 
+good one?  
+  
+In principle, grad school is professional training in research, and
+you shouldn't go unless you want to do research as a career. And 
+yet half the people who get PhDs in CS don't go into research.
+I didn't go to grad school to become a professor. I went because 
+I wanted to learn more.  
+  
+So if you're mainly interested in hacking and you go to grad school,
+you'll find a lot of other people who are similarly out of their 
+element. And if half the people around you are out of their element in the
+same way you are, are you really out of your element?  
+  
+There's a fundamental problem in "computer science," and it surfaces
+in situations like this. No one is sure what "research" is supposed to be. 
+A lot
+of research is hacking that had to be crammed into the form of an
+academic paper to yield one more quantum of publication.  
+  
+So it's kind of misleading to ask whether you'll be at home in grad
+school, because very few people are quite at home in computer
+science. The whole field is uncomfortable in its own skin. So
+the fact that you're mainly interested in hacking shouldn't deter 
+you from going to grad school. Just be warned you'll have to do a lot of stuff 
+you don't like.  
+  
+Number one will be your dissertation. Almost everyone hates their
+dissertation by the time they're done with it. The
+process inherently tends to produce an unpleasant result, like a cake made out
+of whole wheat flour and baked for twelve hours. Few dissertations 
+are read with pleasure, especially by their authors.  
+  
+But thousands before you have suffered through writing a dissertation.
+And aside from that, grad school is close to paradise. Many people
+remember it as the happiest time of their lives. And nearly all
+the rest, including me, remember it as a period that would have 
+been, if they hadn't had to write a dissertation. [5]  
+  
+The danger with grad school is that you don't see the scary part
+upfront. PhD programs start out as college part 2, with several
+years of classes. So by the time you face the horror of writing a 
+dissertation, you're already several years in. If you quit now,
+you'll be a grad-school dropout, and you probably won't like that
+idea. When Robert got kicked out of grad school for writing the
+Internet worm of 1988, I envied him enormously for finding a way out
+without the stigma of failure.   
+  
+On the whole, grad school is probably better than most alternatives. You meet a 
+lot of smart people, and your glum procrastination will at least 
+be a powerful common bond. And of course you have a PhD at the
+end. I forgot about that. I suppose that's worth something.  
+  
+The greatest advantage of a PhD (besides being the union card of
+academia, of course) may be that it gives you some baseline confidence.
+For example, the Honeywell thermostats in my house have the most
+atrocious UI. My mother, who has the same model, diligently spent
+a day reading the user's manual to learn how to operate hers. She
+assumed the problem was with her. But I can think to myself "If
+someone with a PhD in computer science can't understand this
+thermostat, it *must* be badly 
+designed."  
+  
+If you still want to go to grad school after this equivocal
+recommendation, I can give you solid advice about how to get in. 
+A lot of my friends are CS professors now, so I have the inside
+story about admissions. It's quite different from college. At
+most colleges, admissions officers decide who gets in. For PhD
+programs, the professors do. And they try to do
+it well, because the people they admit are going to be working for
+them.  
+  
+Apparently only recommendations really matter at the best schools.
+Standardized tests count for nothing, and grades for little. The
+essay is mostly an opportunity to disqualify yourself by saying 
+something stupid. The only thing professors
+trust is recommendations, preferably from people they know. [6]  
+  
+So if you want to get into a PhD program, the key is to impress
+your professors. And from my friends who are professors I know 
+what impresses them: not merely trying to impress them. They're
+not impressed by students who get good grades or want to be their
+research assistants so they can get into grad school. They're
+impressed by students who get good grades and want to be their 
+research assistants because they're genuinely interested in the 
+topic.  
+  
+So the best thing you can do in college, whether you want to get
+into grad school or just be good at hacking, is figure out what you
+truly like. It's hard to trick professors into letting you into
+grad school, and impossible to trick problems into letting you solve
+them. College is where faking stops working. From this point,
+unless you want to go work for a big company, which is like reverting
+to high school, the only way forward is through doing what you 
+[love](love.html).  
   
   
   
   
   
-
 **Notes**  
   
-[1] 
-Is what we measure worth measuring? I think so. You can get
-rich simply by being energetic and unscrupulous, but getting rich
-from a technology startup takes some amount of brains. It is just
-the kind of work the upper middle class values; it has about the
-same intellectual component as being a doctor.  
+
+[1] No one seems to have minded, which shows how unimportant
+the Arpanet (which became the Internet) was as late as
+1984.  
   
-[2] 
-Actually, someone did, once. Mitch Kapor's wife Freada was
-in charge of HR at Lotus in the early years. (As he is at pains
-to point out, they did not become romantically involved till
-afterward.) At one point they worried Lotus was losing its startup
-edge and turning into a big company. So as an experiment she sent
-their recruiters the resumes of the first 40 employees, with
-identifying details changed. These were the people who had made
-Lotus into the star it was. Not one got an interview.  
+[2] This is why, when I became an employer, I didn't care
+about GPAs. In fact, we actively sought out people 
+who'd failed out of school. We once put up posters around Harvard
+saying "Did you just get kicked out for doing badly in your classes
+because you spent all your time working on some project of your 
+own? Come work for us!" We managed to find a kid who had been, 
+and he was a great hacker.  
   
-[3] 
-The *US News* list? Surely no one trusts that. Even if the
-statistics they consider are useful, how do they decide on the
-relative weights? The reason the *US News* list is meaningful is
-precisely because they are so intellectually dishonest in that
-respect. There is no external source they can use to calibrate the
-weighting of the statistics they use; if there were, we could just
-use that instead. What they must do is adjust the weights till the
-top schools are the usual suspects in about the right order. So
-in effect what the *US News* list tells us is what the editors think
-the top schools are, which is probably not far from the conventional
-wisdom on the matter. The amusing thing is, because some schools
-work hard to game the system, the editors will have to keep tweaking
-their algorithm to get the rankings they want.  
+When Harvard kicks undergrads out for a year, they have to get jobs.
+The idea is to show them how awful the real world is, so they'll 
+understand how lucky they are to be in college. This plan backfired
+with the guy who came to work for us, because he had more fun than
+he'd had in school, and made more that year from stock options than
+any of his professors did in salary. So instead of crawling back
+repentant at the end of the year, he took another year off and went
+to Europe. He did eventually graduate at about 26.  
   
-[4] 
-Possible doesn't mean easy, of course. A smart student at a party school
-will inevitably be something of an outcast, just as he or
-she would be in most [high schools](nerds.html).  
+[3] Eric Raymond says the best metaphors for hackers are
+in set theory, combinatorics, and graph theory.  
+  
+Trevor Blackwell reminds you to take math classes intended for math majors.
+"'Math for engineers' classes sucked mightily. In fact any 'x for
+engineers' sucks, where x includes math, law, writing and visual
+design."  
+  
+[4] Other highly recommended books: *What is Mathematics?*, by
+Courant and Robbins; *Geometry and the Imagination* by Hilbert and 
+Cohn-Vossen.
+And for those interested in graphic design,
+[Byrne's Euclid](http://www.math.ubc.ca/people/faculty/cass/Euclid/byrne.html).  
   
 
-**Thanks** to Trevor Blackwell, Sarah Harlin, Jessica Livingston, Jackie
-McDonough, Peter Norvig, and Robert Morris for reading drafts of
-this.  
+[5] If you wanted to have the perfect life, the thing to do would
+be to go to grad school, secretly write your dissertation in the
+first year or two, and then just enjoy yourself for the next three
+years, dribbling out a chapter at a time. This prospect will make
+grad students' mouths water, but I know of no one who's had the
+discipline to pull it off.  
   
+[6] One professor friend says that 15-20% of the grad students they
+admit each year are "long shots." But what he means by long shots
+are people whose applications are perfect in every way, except
+that no one on the admissions committee knows the professors who
+wrote the recommendations.  
+  
+So if you want to get into
+grad school in the sciences, you need to go to college somewhere with
+real research professors. Otherwise you'll seem a risky bet
+to admissions committees, no matter how good you are.  
+  
+Which implies
+a surprising but apparently inevitable consequence:
+little liberal arts colleges are doomed.
+ Most smart
+high school kids at least consider going into the sciences, even
+if they ultimately choose not to.
+Why go to a college that limits their options?  
+  
+  
+  
+**Thanks** to Trevor Blackwell, Alex Lewin, Jessica Livingston,
+Robert Morris, Eric
+Raymond, and several 
+[anonymous CS professors](undergrad2.html) 
+for reading drafts of this, and to the students whose questions
+began it.  
+  
+  
+
+

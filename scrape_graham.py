@@ -10,7 +10,7 @@ ignore = ["index.html", "https://sep.yimg.com/ty/cdn/paulgraham/acl1.txt?t=16143
 def parse_article(url):
   download = requests.get(url)
   soup = BeautifulSoup(download.content, "html.parser")
-  file = open("./articles/" + url[22:-6] + ".md", "w")
+  file = open("./articles/" + url[22:-5] + ".md", "w")
   article = soup.find_all('table')[0]
   title = ''
   for img in article.find_all('img'):
