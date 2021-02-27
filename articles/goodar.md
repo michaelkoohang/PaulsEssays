@@ -1,4 +1,4 @@
-How Art Can Be Good
+# How Art Can Be Good
 
 December 2006  
   

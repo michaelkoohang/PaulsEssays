@@ -1,4 +1,4 @@
-Succinctness is Power
+# Succinctness is Power
 
 May 2002  
   

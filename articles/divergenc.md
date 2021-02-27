@@ -1,4 +1,4 @@
-Could VC be a Casualty of the Recession?
+# Could VC be a Casualty of the Recession?
 
 December 2008  
   

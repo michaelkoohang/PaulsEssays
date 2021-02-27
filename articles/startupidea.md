@@ -1,4 +1,4 @@
-How to Get Startup Ideas
+# How to Get Startup Ideas
 
 
 ![](http://www.virtumundo.com/images/spacer.gif)

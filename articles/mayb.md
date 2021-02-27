@@ -1,4 +1,4 @@
-Can You Buy a Silicon Valley?  Maybe.
+# Can You Buy a Silicon Valley?  Maybe.
 
 February 2009  
   

@@ -1,4 +1,4 @@
-Why Smart People Have Bad Ideas
+# Why Smart People Have Bad Ideas
 
 
 ![](http://www.virtumundo.com/images/spacer.gif)

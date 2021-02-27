@@ -1,4 +1,4 @@
-Economic Inequality
+# Economic Inequality
 
 
 January 2016  

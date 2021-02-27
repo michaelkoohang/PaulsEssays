@@ -1,4 +1,4 @@
-An Alternative Theory of Unions
+# An Alternative Theory of Unions
 
 May 2007  
   

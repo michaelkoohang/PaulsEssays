@@ -1,4 +1,4 @@
-Hiring is Obsolete
+# Hiring is Obsolete
 
 
 ![](http://www.virtumundo.com/images/spacer.gif)

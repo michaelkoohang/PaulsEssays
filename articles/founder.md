@@ -1,4 +1,4 @@
-What We Look for in Founders
+# What We Look for in Founders
 
 
 ![](http://www.virtumundo.com/images/spacer.gif)

@@ -1,4 +1,4 @@
-The 18 Mistakes That Kill Startups
+# The 18 Mistakes That Kill Startups
 
 
 ![](http://www.virtumundo.com/images/spacer.gif)

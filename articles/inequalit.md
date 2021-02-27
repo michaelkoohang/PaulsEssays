@@ -1,4 +1,4 @@
-Inequality and Risk
+# Inequality and Risk
 
 August 2005  
   

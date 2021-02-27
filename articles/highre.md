@@ -1,4 +1,4 @@
-The High-Res Society
+# The High-Res Society
 
 December 2008  
   

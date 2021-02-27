@@ -1,4 +1,4 @@
-It's Charisma, Stupid
+# It's Charisma, Stupid
 
 
 November 2004, corrected June 2006  

@@ -1,4 +1,4 @@
-The Acceleration of Addictiveness
+# The Acceleration of Addictiveness
 
 July 2010  
   

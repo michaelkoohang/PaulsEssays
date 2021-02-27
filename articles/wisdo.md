@@ -1,4 +1,4 @@
-Is It Worth Being Wise?
+# Is It Worth Being Wise?
 
 February 2007  
   

@@ -1,4 +1,4 @@
-A Plan for Spam
+# A Plan for Spam
 
 
 ![](http://www.virtumundo.com/images/spacer.gif)

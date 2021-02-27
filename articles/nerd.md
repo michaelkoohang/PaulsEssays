@@ -1,4 +1,4 @@
-Why Nerds are Unpopular
+# Why Nerds are Unpopular
 
 February 2003  
   

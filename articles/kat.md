@@ -1,4 +1,4 @@
-What Kate Saw in Silicon Valley  
+# What Kate Saw in Silicon Valley  
 
 August 2009  
   

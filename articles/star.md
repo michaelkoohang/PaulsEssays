@@ -1,4 +1,4 @@
-How to Start a Startup
+# How to Start a Startup
 
 
 ![](http://www.virtumundo.com/images/spacer.gif)

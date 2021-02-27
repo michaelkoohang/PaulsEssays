@@ -1,4 +1,4 @@
-Why Arc Isn't Especially Object-Oriented
+# Why Arc Isn't Especially Object-Oriented
 
 
 There is a kind of mania for object-oriented programming at the moment, but

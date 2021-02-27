@@ -1,4 +1,4 @@
-Disconnecting Distraction
+# Disconnecting Distraction
 
 *Note: The strategy described at the end of this essay didn't work.
 It would work for a while, and then I'd gradually find myself

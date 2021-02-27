@@ -1,4 +1,4 @@
-How to Make Wealth
+# How to Make Wealth
 
 
 ![](http://www.virtumundo.com/images/spacer.gif)

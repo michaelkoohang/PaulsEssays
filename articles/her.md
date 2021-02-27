@@ -1,4 +1,4 @@
-Investor Herd Dynamics
+# Investor Herd Dynamics
 
 
 ![](http://www.virtumundo.com/images/spacer.gif)

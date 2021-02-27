@@ -1,4 +1,4 @@
-The Python Paradox
+# The Python Paradox
 
 August 2004  
   

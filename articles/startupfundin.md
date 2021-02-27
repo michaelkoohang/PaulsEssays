@@ -1,4 +1,4 @@
-How to Fund a Startup
+# How to Fund a Startup
 
 
 ![](http://www.virtumundo.com/images/spacer.gif)

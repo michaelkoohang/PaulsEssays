@@ -1,4 +1,4 @@
-Organic Startup Ideas
+# Organic Startup Ideas
 
 
 ![](http://www.virtumundo.com/images/spacer.gif)

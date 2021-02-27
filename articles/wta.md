@@ -1,4 +1,4 @@
-Modeling a Wealth Tax
+# Modeling a Wealth Tax
 
 August 2020  
   

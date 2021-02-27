@@ -1,4 +1,4 @@
-How to Do Philosophy
+# How to Do Philosophy
 
 September 2007  
   

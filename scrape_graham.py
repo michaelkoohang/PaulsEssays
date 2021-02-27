@@ -15,7 +15,7 @@ def parse_article(url):
   title = ''
   for img in article.find_all('img'):
     try:
-      title = img['alt']
+      title = "# " + img['alt']
     except:
       print("ERR")
   file.write(title + "\n\n")

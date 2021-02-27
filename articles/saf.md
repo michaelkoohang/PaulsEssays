@@ -1,4 +1,4 @@
-Why It's Safe for Founders to Be Nice
+# Why It's Safe for Founders to Be Nice
 
 August 2015  
   

@@ -1,4 +1,4 @@
-Ideas for Startups
+# Ideas for Startups
 
 
 ![](http://www.virtumundo.com/images/spacer.gif)

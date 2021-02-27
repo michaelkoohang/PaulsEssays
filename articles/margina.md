@@ -1,4 +1,4 @@
-The Power of the Marginal
+# The Power of the Marginal
 
 
 ![](http://www.virtumundo.com/images/spacer.gif)

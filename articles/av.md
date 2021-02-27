@@ -1,4 +1,4 @@
-Beating the Averages
+# Beating the Averages
 
 
 ![](http://www.virtumundo.com/images/spacer.gif)

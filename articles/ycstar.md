@@ -1,4 +1,4 @@
-How Y Combinator Started
+# How Y Combinator Started
 
 March 2012  
   

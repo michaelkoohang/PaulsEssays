@@ -1,4 +1,4 @@
-How to Think for Yourself
+# How to Think for Yourself
 
 November 2020  
   

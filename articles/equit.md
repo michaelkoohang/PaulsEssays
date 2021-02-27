@@ -1,4 +1,4 @@
-The Equity Equation
+# The Equity Equation
 
 July 2007  
   

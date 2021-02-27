@@ -1,4 +1,4 @@
-The Hardest Lessons for Startups to Learn
+# The Hardest Lessons for Startups to Learn
 
 April 2006  
   

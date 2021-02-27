@@ -1,4 +1,4 @@
-If Lisp is So Great
+# If Lisp is So Great
 
 May 2003  
   
