@@ -1,4 +1,4 @@
-# The Other Half of "Artists Ship"  
+# The Other Half of "Artists Ship"
 
 November 2008  
   

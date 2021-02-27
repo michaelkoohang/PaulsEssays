@@ -1,4 +1,4 @@
-# What Happened to Yahoo 
+# What Happened to Yahoo
 
 
 ![](http://www.virtumundo.com/images/spacer.gif)

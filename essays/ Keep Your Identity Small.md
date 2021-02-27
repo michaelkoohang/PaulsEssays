@@ -1,4 +1,4 @@
-# Keep Your Identity Small  
+# Keep Your Identity Small
 
 February 2009  
   

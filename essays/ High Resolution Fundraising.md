@@ -1,4 +1,4 @@
-# High Resolution Fundraising 
+# High Resolution Fundraising
 
 
 ![](http://www.virtumundo.com/images/spacer.gif)
